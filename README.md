@@ -1,4 +1,4 @@
-# Exercícios aula07 - (stack) pilha
+# Exercícios aula07 - collections - (stack) pilha
 *Stack/pilha*
 - Atividade solucionada durante o primeiro bloco do programa Developer Jr.Java React Full Stack, da ONG Generation Brasil.
 
